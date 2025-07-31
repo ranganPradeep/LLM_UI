@@ -1,0 +1,10 @@
+streamlit
+pandas
+requests
+docx2txt
+PyPDF2
+langchain
+sentence-transformers
+faiss-cpu
+numpy==1.26.4
+openpyxl
